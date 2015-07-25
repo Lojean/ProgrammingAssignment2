@@ -1,5 +1,4 @@
 ## Name: Gelonia Dent
-# Date: June 21, 2015
 # Program: Caching the Inverse of a Matrix
 #  The two functions makeCacheMatrix() and cacheSolve() take a square matrix and computes its inverse, and stores
 # the inverse in cache so that it can be retrieved. This reserves compute time resourse by eliminate the repeated
